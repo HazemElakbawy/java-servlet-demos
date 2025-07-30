@@ -1,6 +1,6 @@
-package com.hazem.servletdemo1.listener;
+package com.hazem.jakarta.demo1.listener;
 
-import com.hazem.servletdemo1.dao.DataSource;
+import com.hazem.jakarta.demo1.dao.DataSource;
 import jakarta.servlet.ServletContextEvent;
 import jakarta.servlet.ServletContextListener;
 import jakarta.servlet.annotation.WebListener;

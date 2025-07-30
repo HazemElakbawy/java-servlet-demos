@@ -1,4 +1,4 @@
-package com.hazem.servletdemo1.dao;
+package com.hazem.jakarta.demo1.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

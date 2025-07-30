@@ -1,6 +1,6 @@
-package com.hazem.servletdemo1.servlets;
+package com.hazem.jakarta.demo1.servlets;
 
-import com.hazem.servletdemo1.dao.UserDao;
+import com.hazem.jakarta.demo1.dao.UserDao;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;

@@ -1,6 +1,6 @@
-package com.hazem.servletdemo1.dao;
+package com.hazem.jakarta.demo1.dao;
 
-import com.hazem.servletdemo1.model.User;
+import com.hazem.jakarta.demo1.model.User;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
